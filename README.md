@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/srnvsna007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/sankar-narayanan-4741343b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/srnvsna007-ux"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
