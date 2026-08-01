@@ -1,72 +1,116 @@
-<h1 align="center">☁️ Sankaranarayanan S</h1>
-<h3 align="center">Cloud Engineer in Progress | Secure Systems Enthusiast | B.Tech CSBS</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+  <h1>⚡ Sankaranarayanan S</h1>
+  
+  <p>
+    <b>Aspiring Full Stack Developer & Data Scientist | Cloud Engineer in Progress</b>
+  </p>
 
----
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Degree-B.Tech_CSBS-purple?style=for-the-badge" alt="Degree" />
+    <img src="https://img.shields.io/badge/College-Madha_Engineering_College-blue?style=for-the-badge" alt="College" />
+    <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Data_Science-cyan?style=for-the-badge" alt="Focus" />
+  </p>
 
-## 🚀 About Me
+  <p>
+    <a href="https://linkedin.com/in/srnvsna007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/srnvsna007-ux"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
-🎓 B.Tech CSBS – Madha Engineering College  
-💻 Strong foundation in C & C++  
-☁️ Actively learning Cloud Computing (AWS)  
-🔐 Exploring Cyber Security & Linux  
-📈 Preparing for Hackathons & IT Placements  
-
-🔥 Long-Term Vision: Build scalable & secure cloud systems.
-
----
-
-## 🛠️ Technical Stack
-
-### 👨‍💻 Programming
-`C` `C++` `Python (Basics)`
-
-### ☁️ Cloud & DevOps
-`AWS (Learning)` `Git` `GitHub` `Linux` `Docker (Upcoming)`
-
-### 📚 Core Subjects
-`Data Structures` `OOPS` `Operating Systems` `Computer Networks`
+</div>
 
 ---
 
-## 📌 Highlight Projects
+## 🙋‍♂️ About Me
 
-🚀 100 Days of Code (C & C++)  
-🚀 Data Structures Implementation  
-🚀 Linux Command Practice  
-🚀 Mini Cloud Deployment Project (Upcoming)  
-🚀 Smart India Hackathon Preparation  
+I am a passionate computer science student currently pursuing **B.Tech CSBS** at **Madha Engineering College**. Driven by continuous learning, I am mastering **Full Stack Development**, **Data Science**, and **Cloud Engineering**. My goal is to solve real-world problems by building scalable applications, secure cloud deployments, and intelligent data-driven solutions.
 
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+* 🎓 **Education:** B.Tech CSBS - Madha Engineering College
+* 🎯 **Career Goals:** Crack Placements, AWS Certification & Hackathons
+* 💡 **Motto:** *"Success is built daily, not occasionally."*
 
 ---
 
-## 🎯 2026 Goals
+## 🛠️ Technical Skills
 
-- 🔥 Crack Campus Placement
-- 🔥 Earn AWS Certification
-- 🔥 Build 5 Real-World Projects
-- 🔥 Participate in Smart India Hackathon
-- 🔥 Become Job-Ready Cloud Engineer
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Programming Languages</h3>
+      <ul>
+        <li><code>C</code></li>
+        <li><code>C++</code></li>
+        <li><code>Java</code></li>
+        <li><code>Python</code></li>
+        <li><code>JavaScript</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Development</h3>
+      <ul>
+        <li><code>HTML5</code></li>
+        <li><code>CSS3</code></li>
+        <li><code>JavaScript</code></li>
+        <li><code>Full Stack Basics</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data Science & Core</h3>
+      <ul>
+        <li><code>Data Structures & Algorithms (DSA)</code></li>
+        <li><code>OOPs Principles</code></li>
+        <li><code>Operating Systems</code></li>
+        <li><code>Computer Networks</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & Tools</h3>
+      <ul>
+        <li><code>AWS (Learning)</code></li>
+        <li><code>Git & GitHub</code></li>
+        <li><code>Linux Command Line</code></li>
+        <li><code>Docker (Upcoming)</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+## 📂 Featured Repositories
 
-🔗 LinkedIn: https://www.linkedin.com/in/sankaranarayanan-srinivasan-659965364  
-📧 Email: yourmail@gmail.com  
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Java Lab & Core Concepts</b></td>
+      <td>Comprehensive repository covering basic to advanced Java programs including OOPs, Exception Handling, Collections, and Banking apps.</td>
+      <td><code>Java</code> <code>OOPs</code></td>
+    </tr>
+    <tr>
+      <td><b>Python Basics</b></td>
+      <td>Structured reference guide covering Python control flow, positional and default arguments, composition, and math operations.</td>
+      <td><code>Python</code> <code>Data Science</code></td>
+    </tr>
+    <tr>
+      <td><b>C++ & DSA Suite</b></td>
+      <td>Implementations of fundamental Data Structures & Algorithms, array memory operations, sizes, traversals, and Singly Linked Lists.</td>
+      <td><code>C++</code> <code>DSA</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-⚡ "Success is built daily, not occasionally."
+<div align="center">
+  <p>© 2026 Sankaranarayanan S. Built with passion & dedication.</p>
+</div>
